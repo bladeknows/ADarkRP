@@ -1,1 +1,2 @@
-test
+- rep now fully saves on restart/disconnect
+- check added to base builder, just need which jobs should be restricted based on rep
