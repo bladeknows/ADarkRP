@@ -1,6 +1,7 @@
 --[[top priority]]--
 Ghost System
 Finish Rep System (Just lock jobs based on reputation)
+- check added to base builder, just need which jobs should be restricted
 CP Test 
 Gang System
 Send information via server to client rather than client to server for the RP Name change system(avoid shitploits)
